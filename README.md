@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Rajit Mishra </h1>
+<h3 align="center">🚀 Cloud & DevOps | Automating the Future ☁️</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on: Building a scalable Healthcare Management System (Medi-Sentinel) using React and AWS.<br><br>👯 I’m looking to collaborate on: Open-source projects involving DevOps pipelines, or Full-stack Node.js applications.<br><br>🤝 I’m looking for help with: Mastering System Design and large-scale Cloud Architecture.<br><br>🌱 I’m currently learning: Advanced AWS services, Kubernetes, and GoLang for backend optimization.<br><br>💬 Ask me about: AWS Infrastructure, Jenkins CI/CD, python and Java Data Structures.<br><br>⚡ Fun fact: I can debug code in my head, but I still need Google to center a <div>!
 
